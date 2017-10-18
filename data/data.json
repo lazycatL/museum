@@ -1,0 +1,28 @@
+const datas=[{
+    "1":{  
+        "name": {
+          "CN":"斯坦威钢琴",
+          "EN":"A Steinway Grand Piano"
+        },
+        "ImgURL": ["img/斯坦威钢琴.jpg"],
+        "audioURL":"music/钢琴曲 - 上海滩.mp3",
+        "description": {
+          "CN": "1853 年，德国移民亨利·恩格尔哈特·施坦威",
+          "EN": "Steinway & Sons, is an American-German piano company, founded in 1853 in Manhattan"
+        } 
+    } ,
+   "2":{  
+      "name": {
+        "CN":"邵秉仁书法作品",
+        "EN":"Calligraphy Work by Shao Bingren"
+      },
+      "ImgURL":  ["img/邵秉仁书法作品1.jpg","img/邵秉仁书法作品2.jpg","img/邵秉仁书法作品3.jpg"],
+      "audioURL":"music/钢琴曲 - 上海滩.mp3",
+      "description": {
+        "CN": "<p style=\"text-indent:28px\">\n  <span style=\"font-size: 16px;font-family: 幼圆\">邵秉仁，中国书法家协会顾问，第五届中国书法家协会副主席。中国艺术研究院中国书法院特邀研究员，中国人民大学艺术学院书法教授，首都师范大学中国书法文化研究院客座教授。中国当代著名书法家，邵秉仁书法以二王为宗，兼蓄米、赵、以及明清书家王铎、傅山，逐渐形成了以传统为主，不激不厉和典雅的行、草书风格，体现了中国书法的</span><span style=\"font-size: 16px;font-family: Arial\">“</span><span style=\"font-size: 16px;font-family: 幼圆\">中和之美</span><span style=\"font-size: 16px;font-family: Arial\">”</span><span style=\"font-size: 16px;font-family: 幼圆\">。他对传统文化和书法理论研究有较深造诣，擅长古文和诗词。在其创作的诗词文章中，均表现出相当深厚的文史学养和社会责任感、自省反思的道德情操。</span></p><p style=\"text-indent:28px\">  <span style=\"font-size: 16px;font-family: 幼圆\">作品介绍：</span></p>\n<p style=\"text-indent:28px\"> <span style=\"font-size: 16px;font-family: 幼圆\">释文：鸿鹄凌虚</span><span style=\"font-size: 16px;font-family: Arial\"> </span></p>\n<p style=\"text-indent:28px\"><span style=\"font-size: 16px;font-family: 幼圆\">字体：行书</span></p><p style=\"text-indent:28px\"> <span style=\"font-size: 16px;font-family: 幼圆\">注释：鸿鹄是中国古人对大雁、天鹅之类飞行极为高远鸟类的通称，凌虚是指升向高空或高高的在空中。鸿鹄凌虚比喻君子的志向高远，如鸿鹄之志。</span></p><p> <br/></p>",
+        "EN": "Shao Bingren, is consultant of Chinese Calligraphers Association"
+      } 
+  } 
+     
+} 
+]
